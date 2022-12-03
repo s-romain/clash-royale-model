@@ -1,4 +1,4 @@
-package fr.sromain.clash.entities;
+package fr.sromain.clashroyale.api.model;
 
 import lombok.Data;
 

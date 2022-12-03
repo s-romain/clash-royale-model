@@ -5,11 +5,11 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>fr.sromain</groupId>
+    <groupId>fr.sromain.clashroyale.api</groupId>
     <artifactId>clash-royale-model</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name>clash-royale-model</name>
+    <name>API Clash Royale - Model</name>
     <description>API Clash Royale - Model</description>
 
     <properties>
